@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的应用</string>
+    <string name="action_settings">操作</string>
+    <string name="button_send">发送</string>
+    <string name="edit_message">写点什么</string>
+    <string name="title_fragment_display_message">我的信息</string>
+    <string name="pick_contacts">选择一个联系人</string>
+    <string name="file">文件管理器</string>
+    <string name="saved_contact">已保存的联系人</string>
+    <string name="title_fragment_file_manager">文件管理器</string>
+    <string name="write_file">写入文件</string>
+    <string name="read_file">读取文件</string>
+</resources>

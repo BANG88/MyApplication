@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_fragment_display_message">My message</string>
+    <string name="pick_contacts">Pick a contact</string>
+    <string name="saved_contact">contact</string>
+    <string name="file">File Manager</string>
+    <string name="title_fragment_file_manager">File Manager</string>
+    <string name="write_file">Write File</string>
+    <string name="read_file">Read File</string>
+</resources>
